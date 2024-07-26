@@ -1,12 +1,12 @@
 ---
-category: 2. Getting Started
-order: 4
+category: 2. Vanderson
+order: 4 teste 
 title: Default sites in VVV
 description: VVV creates and sets up several WordPress installs for you automatically.
 permalink: /docs/en-US/references/default-sites/
 ---
 
-## What are the Default Sites?
+## Vanderson?
 
 VVV creates and sets up several WordPress installs for you automatically, these are:
 
